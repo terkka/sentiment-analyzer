@@ -42,3 +42,4 @@ SentimentAnalyzer.js file
 
 After that run the react app with "npm run"
 
+Link to the demo of the web app: https://youtu.be/rXod8axJcsE

@@ -11,7 +11,7 @@ function SentimentAnalyzer() {
         event.preventDefault();
         try {
             const response = await axios.post(
-                'place api endpoint here /analyze/', // Replace with your actual API endpoint
+                'https://553c-34-58-136-50.ngrok-free.app/analyze/', // Replace with your actual API endpoint
                 { text, model }
             );
 
